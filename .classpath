@@ -10,5 +10,23 @@
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/extentreports-2.41.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/snakeyaml-1.15 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/ant-1.10.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Lenovo/Downloads/testng-6.14.3.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
